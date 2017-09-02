@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		F3BC027D1F5A312A00A3D744 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F3BC027C1F5A312A00A3D744 /* main.cpp */; };
+		F3BC02851F5A314600A3D744 /* Lab0_Problema1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F3BC02841F5A314600A3D744 /* Lab0_Problema1.cpp */; };
+		F3BC02871F5A314B00A3D744 /* Lab0_Problema2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F3BC02861F5A314B00A3D744 /* Lab0_Problema2.cpp */; };
+		F3BC02891F5A315000A3D744 /* Lab0_Problema3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F3BC02881F5A315000A3D744 /* Lab0_Problema3.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,10 @@
 /* Begin PBXFileReference section */
 		F3BC02791F5A312A00A3D744 /* Lab0 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Lab0; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3BC027C1F5A312A00A3D744 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F3BC02831F5A313F00A3D744 /* icom5007-RodriguezC-lab0 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "icom5007-RodriguezC-lab0"; path = "../../../Desktop/icom5007-RodriguezC-lab0"; sourceTree = "<group>"; };
+		F3BC02841F5A314600A3D744 /* Lab0_Problema1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Lab0_Problema1.cpp; path = "../../../../Desktop/icom5007-RodriguezC-lab0/Lab0_Problema1.cpp"; sourceTree = "<group>"; };
+		F3BC02861F5A314B00A3D744 /* Lab0_Problema2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Lab0_Problema2.cpp; path = "../../../../Desktop/icom5007-RodriguezC-lab0/Lab0_Problema2.cpp"; sourceTree = "<group>"; };
+		F3BC02881F5A315000A3D744 /* Lab0_Problema3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Lab0_Problema3.cpp; path = "../../../../Desktop/icom5007-RodriguezC-lab0/Lab0_Problema3.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +48,7 @@
 		F3BC02701F5A312A00A3D744 = {
 			isa = PBXGroup;
 			children = (
+				F3BC02831F5A313F00A3D744 /* icom5007-RodriguezC-lab0 */,
 				F3BC027B1F5A312A00A3D744 /* Lab0 */,
 				F3BC027A1F5A312A00A3D744 /* Products */,
 			);
@@ -57,6 +65,9 @@
 		F3BC027B1F5A312A00A3D744 /* Lab0 */ = {
 			isa = PBXGroup;
 			children = (
+				F3BC02881F5A315000A3D744 /* Lab0_Problema3.cpp */,
+				F3BC02861F5A314B00A3D744 /* Lab0_Problema2.cpp */,
+				F3BC02841F5A314600A3D744 /* Lab0_Problema1.cpp */,
 				F3BC027C1F5A312A00A3D744 /* main.cpp */,
 			);
 			path = Lab0;
@@ -119,6 +130,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3BC02851F5A314600A3D744 /* Lab0_Problema1.cpp in Sources */,
+				F3BC02871F5A314B00A3D744 /* Lab0_Problema2.cpp in Sources */,
+				F3BC02891F5A315000A3D744 /* Lab0_Problema3.cpp in Sources */,
 				F3BC027D1F5A312A00A3D744 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
